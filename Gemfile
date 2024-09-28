@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 gemspec
-garth-jekyll-theme
+gem "garth-jekyll-theme"
