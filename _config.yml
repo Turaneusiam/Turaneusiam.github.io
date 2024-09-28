@@ -65,3 +65,6 @@ description: "A really basic theme for Jekyll, using the official Jekyll theme i
 url: "https://garth.darn.es" # Site url
 baseurl: ""
 lang: en-GB
+
+# 8. theme
+theme: garth-jekyll-theme
