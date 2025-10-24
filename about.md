@@ -4,7 +4,13 @@ title: Homepage
 
 Hello! My name is Yu Shi (时雨). I am an assistant professor in Business Analytics. My research interests include Data Envelopment Analysis (DEA) and optimization modeling for benchmarking and performance/efficiency/productivity evaluation. You can find the most up-to-date list of my publications on my [Google Scholar Profile](https://scholar.google.com/citations?user=JgL-P8MAAAAJ&hl=en).
 
-## Recent Publications
+### <span style="color:#333333"> Education </span>
+
+Ph.D., the Business School, Worcester Polytechnic Institute\
+MFin, Smith School of Business, Queen’s University\
+BCom, Rotman School of Management, University of Toronto
+
+### <span style="color:#333333"> Recent Publications </span>
 
 Liang, N., Shi, Y., & Chen, Y. (2025). R&D and operational efficiency in China's innovative high-tech enterprises: Empirical analysis with two-stage slack based measure data envelopment analysis and threshold regression. Omega, 103342.
 
@@ -24,24 +30,12 @@ Yu, A., Shi, Y., & Zhu, J. (2021). Acceleration of Large-Scale DEA Computations 
 
 Zhou, H., Yang, Y., Chen, Y., Zhu, J., & Shi, Y. (2021). DEA Application in Sustainability 1996–2019: The Origins, Development, and Future Directions. In: Chen, C., Chen, Y., Jayaraman, V. (eds) Pursuing Sustainability. International Series in Operations Research & Management Science, vol 301, 71-109. Springer, Cham.
 
-## Teaching
-MBA810 Business Analytics and Statistics
- 
-MGT251 Introduction to Programming for Data Science
+### <span style="color:#333333"> Teaching </span>
 
-MGT226 Business Analytics
-
-MGMT160 Planning and Control of Operations
-
-MGMT120 Management of Operations
-
-POMS2010 Introduction to Business Analytics
-
+MBA810 Business Analytics and Statistics\
+MGT251 Introduction to Programming for Data Science\
+MGT226 Business Analytics\
+MGMT160 Planning and Control of Operations\
+MGMT120 Management of Operations\
+POMS2010 Introduction to Business Analytics\
 POMS3010 Operations Management
-
-## Education
-Ph.D., the Business School, Worcester Polytechnic Institute
-
-MFin, Smith School of Business, Queen’s University
-
-BCom, Rotman School of Management, University of Toronto
