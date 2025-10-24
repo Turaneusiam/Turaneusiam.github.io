@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Homepage
 ---
 
 Hello! My name is Yu Shi (时雨). I am an assistant professor in Business Analytics. My research interests include Data Envelopment Analysis (DEA) and optimization modeling for benchmarking and performance/efficiency/productivity evaluation. You can find the most up-to-date list of my publications on my [Google Scholar Profile](https://scholar.google.com/citations?user=JgL-P8MAAAAJ&hl=en).
