@@ -1,40 +1,54 @@
 ---
-title: About Garth
+title: About Me
 ---
 
-A really basic theme for Jekyll, using the official Jekyll theme implementation.
+Hello! My name is Yu Shi. I am an assistant professor in Business Analytics. My research interests include Data Envelopment Analysis (DEA) and optimization modeling for benchmarking and performance/efficiency/productivity evaluation. You can find the most up-to-date list of my publications on my [Google Scholar Profile](https://scholar.google.com/citations?user=JgL-P8MAAAAJ&hl=en).
 
-- [Fork on GitHub](https://github.com/daviddarnes/garth)
-- [Install Garth](https://github.com/daviddarnes/garth#installation)
+## Recent Publications
 
-[<img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" width="217"/>](https://buymeacoffee.com/daviddarnes#support)
+Liang, N., Shi, Y., & Chen, Y. (2025). R&D and operational efficiency in China's innovative high-tech enterprises: Empirical analysis with two-stage slack based measure data envelopment analysis and threshold regression. Omega, 103342.
 
-## Installation
+Shi, Y., Charles, V., & Zhu, J. (2025). Bank Financial Sustainability Evaluation: Data Envelopment Analysis with Random Forest and Shapley Additive Explanations. European Journal of Operational Research.
 
-### As a Jekyll theme
+Yu, A., Zhang, H., Liu, H. C., Shi, Y., & Bi, W. (2024). Dynamic centralized resource allocation approach with contextual impacts: analyzing Chinese carbon allocation plans. Annals of Operations Research, 1-33.
 
-1. Add `gem "garth-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: garth-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
+Shi, Y., Zhao, W. (2023), An Integrated Machine Learning and DEA-predefined Performance Outcome Prediction Framework with High-dimensional Imbalanced Data. INFOR: Information Systems and Operational Research, 1-30. 
 
-### As a GitHub Pages remote theme
+Yu, A., Shi, Y., & Zhu, J. (2021), Innovation performance evaluation for high-tech companies using a dynamic network data envelopment analysis approach, European Journal of Operational Research, Volume 292, Issue 1, 199-212.
 
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/garth` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
+Shi, Y., Yu, A., Higgins, H., & Zhu, J. (2021), Shared and Unsplittable Performance Links in Network DEA. Annals of Operations Research, Volume 303, Issue 1 (2021), 507–528.
 
-### As a Boilerplate / Fork
+Shi, Y., Charles, V., & Zhu, J. (2021), Data Science and Productivity: A Review of Data Science Applications and Approaches in Productivity Evaluations. Journal of the Operational Research Society, Volume 72, Issue 5, 975-988.
 
-_(deprecated, not recommended)_
+Yu, A., Shi, Y., & Zhu, J. (2021). Acceleration of Large-Scale DEA Computations Using Random Forest Classification. In: Zhu, J., Charles, V. (eds) Data-Enabled Analytics. International Series in Operations Research & Management Science, vol 312, 31–49. Springer, Cham.
 
-1. [Fork the repo](https://github.com/daviddarnes/garth#fork-destination-box)
-2. Replace the `Gemfile` with one stating all the gems used in your project
-3. Delete the following unnecessary files/folders: `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `LICENSE`, `screenshot.png`, `CNAME` and `garth-jekyll-theme.gemspec`
-4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the example [`_config.yml`](https://github.com/daviddarnes/garth/blob/master/_config.yml) file to set site-wide options
+Zhou, H., Yang, Y., Chen, Y., Zhu, J., & Shi, Y. (2021). DEA Application in Sustainability 1996–2019: The Origins, Development, and Future Directions. In: Chen, C., Chen, Y., Jayaraman, V. (eds) Pursuing Sustainability. International Series in Operations Research & Management Science, vol 301, 71-109. Springer, Cham.
+
+## Teaching
+MBA810 Business Analytics and Statistics 
+
+MGT251 Introduction to Programming for Data Science
+
+MGT226 Business Analytics
+
+MGMT160 Planning and Control of Operations
+
+MGMT120 Management of Operations
+
+POMS2010 Introduction to Business Analytics
+
+POMS3010 Operations Management
+
+## Education
+Ph.D., the Business School, Worcester Polytechnic Institute
+
+MFin, Smith School of Business, Queen’s University
+
+BCom, Rotman School of Management, University of Toronto
+
+## Personal
+Music has always been the quiet pulse beneath my days. In my spare moments, I enjoy playing the **piano, flute, and banjo**, with my strongest proficiency and longest experience in piano. You can find my piano performance videos and tutorials on my RedNotes page. 
+
+I also have a passion for creative writing (both in English and Chinese) which is likewise featured on RedNotes.
+
+I’m looking for fellow music enthusiasts to **practice and perform duets with**. If you’re in the NYC or Jersey City area and would like to rehearse, create, or perform together, I would love to connect. 
