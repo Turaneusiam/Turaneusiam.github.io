@@ -39,9 +39,7 @@ collections:
   posts:
     title: Personal # Needed for Siteleaf
     output: true
-    description: "Music has always been the quiet pulse beneath my days. In my spare moments, I enjoy playing the **piano, flute, and banjo**, with my strongest proficiency and longest experience in piano. My piano performance and rehearsal videos are featured on RedNotes.
-
-\nI also have a passion for creative writing." # The post list page content
+    description: "Music has always been the quiet pulse beneath my days. In my spare moments, I enjoy playing the **piano, flute, and banjo**, with my strongest proficiency and longest experience in piano. My piano performance and rehearsal videos are featured on RedNotes. I also have a passion for creative writing." # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
