@@ -37,9 +37,13 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Blog # Needed for Siteleaf
+    title: Personal # Needed for Siteleaf
     output: true
-    description: "Research and personal updates will be posted here." # The post list page content
+    description: "Music has always been the quiet pulse beneath my days. In my spare moments, I enjoy playing the piano, flute, and banjo, with my strongest proficiency and longest experience in piano. You can find my piano performance videos and tutorials on my RedNotes page.
+
+I also have a passion for creative writing (both in English and Chinese) which is likewise featured on RedNotes.
+
+I’m looking for fellow music enthusiasts to practice and perform duets with. If you’re in the NYC or Jersey City area and would like to rehearse, create, or perform together, I would love to connect." # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
