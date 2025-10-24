@@ -39,7 +39,7 @@ collections:
   posts:
     title: Personal # Needed for Siteleaf
     output: true
-    description: "Music has always been the quiet pulse beneath my days. In my spare moments, I enjoy playing the piano, flute, and banjo, with my strongest proficiency and longest experience in piano. You can find my piano performance videos and tutorials on my RedNotes page.
+    description: "Music has always been the quiet pulse beneath my days. In my spare moments, I enjoy playing the **piano, flute, and banjo**, with my strongest proficiency and longest experience in piano. You can find my piano performance videos and tutorials on my RedNotes page.
 
 I also have a passion for creative writing (both in English and Chinese) which is likewise featured on RedNotes.
 

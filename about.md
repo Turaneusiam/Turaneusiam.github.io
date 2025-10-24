@@ -2,7 +2,7 @@
 title: Yu Shi
 ---
 
-Hello! I am an assistant professor in Business Analytics. My research interests include Data Envelopment Analysis (DEA) and optimization modeling for benchmarking and performance/efficiency/productivity evaluation. You can find the most up-to-date list of my publications on my [Google Scholar Profile](https://scholar.google.com/citations?user=JgL-P8MAAAAJ&hl=en).
+Hello! My name is Yu Shi (时雨). I am an assistant professor in Business Analytics. My research interests include Data Envelopment Analysis (DEA) and optimization modeling for benchmarking and performance/efficiency/productivity evaluation. You can find the most up-to-date list of my publications on my [Google Scholar Profile](https://scholar.google.com/citations?user=JgL-P8MAAAAJ&hl=en).
 
 ## Recent Publications
 
@@ -25,8 +25,8 @@ Yu, A., Shi, Y., & Zhu, J. (2021). Acceleration of Large-Scale DEA Computations 
 Zhou, H., Yang, Y., Chen, Y., Zhu, J., & Shi, Y. (2021). DEA Application in Sustainability 1996–2019: The Origins, Development, and Future Directions. In: Chen, C., Chen, Y., Jayaraman, V. (eds) Pursuing Sustainability. International Series in Operations Research & Management Science, vol 301, 71-109. Springer, Cham.
 
 ## Teaching
-MBA810 Business Analytics and Statistics 
-
+MBA810 Business Analytics and Statistics
+ 
 MGT251 Introduction to Programming for Data Science
 
 MGT226 Business Analytics
@@ -45,10 +45,3 @@ Ph.D., the Business School, Worcester Polytechnic Institute
 MFin, Smith School of Business, Queen’s University
 
 BCom, Rotman School of Management, University of Toronto
-
-## Personal
-Music has always been the quiet pulse beneath my days. In my spare moments, I enjoy playing the **piano, flute, and banjo**, with my strongest proficiency and longest experience in piano. You can find my piano performance videos and tutorials on my RedNotes page. 
-
-I also have a passion for creative writing (both in English and Chinese) which is likewise featured on RedNotes.
-
-I’m looking for fellow music enthusiasts to **practice and perform duets with**. If you’re in the NYC or Jersey City area and would like to rehearse, create, or perform together, I would love to connect. 
