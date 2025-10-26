@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A really basic theme for Jekyll.}
   spec.description   = "A really basic theme for Jekyll, using the official Jekyll theme implementation."
-  spec.homepage      = "https://garth.darn.es"
+  spec.homepage      = "https://Turaneusiam.github.io"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
