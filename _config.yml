@@ -62,9 +62,12 @@ title: "Turaneusiam" # Site name or title
 logo: "/assets/logo.jpg" # Site logo
 # favicon: "/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
 description: "Personal website for Yu Shi." # Site description and default description
-url: "https://Turaneusiam.github.io" # Site url
-##baseurl: "/Turaneusiam.github.io"
+url: "https://turaneusiam.github.io" # Site url
+##baseurl: ""
 lang: en-GB
 
 # 8. theme
-theme: garth-jekyll-theme
+plugins:
+  - jekyll-remote-theme
+remote_theme: daviddarnes/garth
+
