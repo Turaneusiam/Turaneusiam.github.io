@@ -1,2 +1,4 @@
 source "https://rubygems.org"
-gem "garth-jekyll-theme"
+
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-remote-theme", group: :jekyll_plugins
