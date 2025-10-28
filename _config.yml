@@ -65,6 +65,7 @@ description: "Personal website for Yu Shi." # Site description and default descr
 url: "https://turaneusiam.github.io" # Site url
 ##baseurl: ""
 lang: en-GB
+google_analytics: G-WQQBD4RNTS
 
 # 8. theme
 plugins:
