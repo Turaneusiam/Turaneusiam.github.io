@@ -19,6 +19,9 @@ exclude:
 - Gemfile.lock
 - garth-jekyll-theme.gemspec
 
+include:
+  - googlebf6b320970d58442.html
+
 # 2. Installed Gems
 plugins:
 - jekyll-paginate
