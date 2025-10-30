@@ -25,6 +25,7 @@ include:
 # 2. Installed Gems
 plugins:
 - jekyll-paginate
+- jekyll-sitemap
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
