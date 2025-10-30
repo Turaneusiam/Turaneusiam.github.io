@@ -25,7 +25,6 @@ include:
 # 2. Installed Gems
 plugins:
 - jekyll-paginate
-- jekyll-sitemap
 
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
@@ -74,5 +73,6 @@ google_analytics: G-WQQBD4RNTS
 # 8. theme
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
 remote_theme: daviddarnes/garth
 
